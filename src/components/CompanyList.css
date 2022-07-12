@@ -1,0 +1,8 @@
+.companyContainer {
+    margin: 10px;
+    padding: 1rem !important;
+    background: linear-gradient(to right, rgb(0, 34, 128) 0%, rgb(152, 232, 240) 100%);
+    color: #fff !important;
+    border-radius: 0.25rem !important;
+    
+}

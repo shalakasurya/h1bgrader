@@ -1,0 +1,38 @@
+tbody,
+th,
+td {
+    padding: 0.3rem;
+    margin: 3px;
+    border: 1px solid #008CBA;
+    text-align: left !important;
+    /* border-radius: 5px; */
+
+}
+
+.EmpolyerDetailsTable {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a:link {
+    color: black;
+    text-decoration: underline;
+}
+
+/* visited link */
+/* a:visited {
+    color: green;
+} */
+
+/* mouse over link */
+a:hover {
+    color: green;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
